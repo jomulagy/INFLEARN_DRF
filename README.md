@@ -1,4 +1,1 @@
-# study
-혼자 공부한 내용 입니다
-
-Branch를 통해 주제별로 구분해서 정리합니다.
+# 인프런 Django REST Framework 핵심사항 - 김석훈
